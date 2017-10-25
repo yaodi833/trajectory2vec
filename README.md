@@ -1,6 +1,8 @@
 # trajectory2vec
 
-simulation in 
+simulation in "Trajectory clustering via deep representation learning"
+
+## Citing trajectory2vec
 "Yao, D., Zhang, C., Zhu, Z., Huang, J., & Bi, J. (2017, May). Trajectory clustering via deep representation learning. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 3880-3887). IEEE."
 
 ##Required Packages:
