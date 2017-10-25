@@ -2,9 +2,6 @@
 
 simulation in "Trajectory clustering via deep representation learning"
 
-## Citing trajectory2vec
-"Yao, D., Zhang, C., Zhu, Z., Huang, J., & Bi, J. (2017, May). Trajectory clustering via deep representation learning. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 3880-3887). IEEE."
-
 ## Required Packages:
 
 Tensorflow = 0.11.0rc0, 
@@ -34,3 +31,5 @@ After compution, distance matrixs are generated in /distances/.
 Besse P, Guillouet B, Loubes J M, et al. Review and perspective for
 distance based trajectory clustering[J]. arXiv preprint arXiv:1508.04904, 2015.
 
+## Citing trajectory2vec
+"Yao, D., Zhang, C., Zhu, Z., Huang, J., & Bi, J. (2017, May). Trajectory clustering via deep representation learning. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 3880-3887). IEEE."
